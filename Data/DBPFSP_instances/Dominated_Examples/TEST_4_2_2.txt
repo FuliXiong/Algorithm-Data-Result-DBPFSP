@@ -1,0 +1,17 @@
+Instance: GEN_4_2_2_s586047
+Jobs: 4
+Factories: 2
+Machines: 2
+
+Job 1:
+  Factory 1: [68, 96]
+  Factory 2: [68, 96]
+Job 2:
+  Factory 1: [76, 2]
+  Factory 2: [76, 2]
+Job 3:
+  Factory 1: [74, 45]
+  Factory 2: [74, 45]
+Job 4:
+  Factory 1: [62, 29]
+  Factory 2: [62, 29]

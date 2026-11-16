@@ -1,0 +1,301 @@
+method,tct,makespan,solve_time,gap,upper_bound,lower_bound,status,instance,n_jobs,n_machines
+Sequence-based MILP,877,325,0.043002844,0,877,877,time_limit,instance_n5_m2_id1.pkl,5,2
+Manne-based MILP,877,325,0.024991274,0,877,877,time_limit,instance_n5_m2_id1.pkl,5,2
+Position-based MILP,877,325,0.042990923,0,877,877,time_limit,instance_n5_m2_id1.pkl,5,2
+tct_cp,877,325,0.02800107,0,877,877,optimal,instance_n5_m2_id1.pkl,5,2
+tct_core,877,175.4,0.000999689,0,877,877,optimal,instance_n5_m2_id1.pkl,5,2
+Sequence-based MILP,833,327,0.03000021,0,833,833,time_limit,instance_n5_m2_id2.pkl,5,2
+Manne-based MILP,833,327,0.021000385,0,833,833,time_limit,instance_n5_m2_id2.pkl,5,2
+Position-based MILP,833,327,0.038001537,0,833,833,time_limit,instance_n5_m2_id2.pkl,5,2
+tct_cp,833,327,0.02700901,0,833,833,optimal,instance_n5_m2_id2.pkl,5,2
+tct_core,833,166.6,0,0,833,833,optimal,instance_n5_m2_id2.pkl,5,2
+Sequence-based MILP,955,319,0.059998035,0,955,955,time_limit,instance_n5_m2_id3.pkl,5,2
+Manne-based MILP,955,319,0.019999027,0,955,955,time_limit,instance_n5_m2_id3.pkl,5,2
+Position-based MILP,955,319,0.036993742,0,955,955,time_limit,instance_n5_m2_id3.pkl,5,2
+tct_cp,955,318,0.026999712,0,955,955,optimal,instance_n5_m2_id3.pkl,5,2
+tct_core,955,191,0,0,955,955,optimal,instance_n5_m2_id3.pkl,5,2
+Sequence-based MILP,975,321,0.027997494,0,975,975,time_limit,instance_n5_m2_id4.pkl,5,2
+Manne-based MILP,975,321,0.021998644,0,975,975,time_limit,instance_n5_m2_id4.pkl,5,2
+Position-based MILP,975,321,0.04399991,0,975,975,time_limit,instance_n5_m2_id4.pkl,5,2
+tct_cp,975,321,0.025000572,0,975,975,optimal,instance_n5_m2_id4.pkl,5,2
+tct_core,975,195,0,0,975,975,optimal,instance_n5_m2_id4.pkl,5,2
+Sequence-based MILP,1287,457,0.04741168,0,1287,1287,time_limit,instance_n5_m2_id5.pkl,5,2
+Manne-based MILP,1287,457,0.021956444,0,1287,1287,time_limit,instance_n5_m2_id5.pkl,5,2
+Position-based MILP,1287,457,0.041000605,0,1287,1287,time_limit,instance_n5_m2_id5.pkl,5,2
+tct_cp,1287,457,0.02699995,0,1287,1287,optimal,instance_n5_m2_id5.pkl,5,2
+tct_core,1287,257.4,0,0,1287,1287,optimal,instance_n5_m2_id5.pkl,5,2
+Sequence-based MILP,1130,387,0.029992819,0,1130,1130,time_limit,instance_n5_m3_id1.pkl,5,3
+Manne-based MILP,1130,387,0.02699995,0,1130,1130,time_limit,instance_n5_m3_id1.pkl,5,3
+Position-based MILP,1130,387,0.049000263,0,1130,1130,time_limit,instance_n5_m3_id1.pkl,5,3
+tct_cp,1130,387,0.028004646,0,1130,1130,optimal,instance_n5_m3_id1.pkl,5,3
+tct_core,1130,226,0,0,1130,1130,optimal,instance_n5_m3_id1.pkl,5,3
+Sequence-based MILP,854,240,0.024008274,0,854,854,time_limit,instance_n5_m3_id2.pkl,5,3
+Manne-based MILP,854,240,0.020996094,0,854,854,time_limit,instance_n5_m3_id2.pkl,5,3
+Position-based MILP,854,240,0.039000034,0,854,854,time_limit,instance_n5_m3_id2.pkl,5,3
+tct_cp,854,240,0.027007341,0,854,854,optimal,instance_n5_m3_id2.pkl,5,3
+tct_core,854,170.8,0,0,854,854,optimal,instance_n5_m3_id2.pkl,5,3
+Sequence-based MILP,1361,429,0.044993639,0,1361,1361,time_limit,instance_n5_m3_id3.pkl,5,3
+Manne-based MILP,1361,429,0.025993347,0,1361,1361,time_limit,instance_n5_m3_id3.pkl,5,3
+Position-based MILP,1361,429,0.041990995,0,1361,1361,time_limit,instance_n5_m3_id3.pkl,5,3
+tct_cp,1361,429,0.029007435,0,1361,1361,optimal,instance_n5_m3_id3.pkl,5,3
+tct_core,1361,272.2,0,0,1361,1361,optimal,instance_n5_m3_id3.pkl,5,3
+Sequence-based MILP,996,302,0.020001411,0,996,996,time_limit,instance_n5_m3_id4.pkl,5,3
+Manne-based MILP,996,302,0.024001598,0,996,996,time_limit,instance_n5_m3_id4.pkl,5,3
+Position-based MILP,996,302,0.037993193,0,996,996,time_limit,instance_n5_m3_id4.pkl,5,3
+tct_cp,996,302,0.025999546,0,996,996,optimal,instance_n5_m3_id4.pkl,5,3
+tct_core,996,199.2,0,0,996,996,optimal,instance_n5_m3_id4.pkl,5,3
+Sequence-based MILP,1222,394,0.028992414,0,1222,1222,time_limit,instance_n5_m3_id5.pkl,5,3
+Manne-based MILP,1222,394,0.014992237,0,1222,1222,time_limit,instance_n5_m3_id5.pkl,5,3
+Position-based MILP,1222,394,0.034666777,0,1222,1222,time_limit,instance_n5_m3_id5.pkl,5,3
+tct_cp,1222,394,0.026010275,0,1222,1222,optimal,instance_n5_m3_id5.pkl,5,3
+tct_core,1222,244.4,0,0,1222,1222,optimal,instance_n5_m3_id5.pkl,5,3
+Sequence-based MILP,1769,547,0.045996666,0,1769,1769,time_limit,instance_n5_m4_id1.pkl,5,4
+Manne-based MILP,1769,547,0.023000717,0,1769,1769,time_limit,instance_n5_m4_id1.pkl,5,4
+Position-based MILP,1769,491,0.048992157,0,1769,1769,time_limit,instance_n5_m4_id1.pkl,5,4
+tct_cp,1769,491,0.028000355,0,1769,1769,optimal,instance_n5_m4_id1.pkl,5,4
+tct_core,1769,353.8,0,0,1769,1769,optimal,instance_n5_m4_id1.pkl,5,4
+Sequence-based MILP,1475,384,0.027000427,0,1475,1475,time_limit,instance_n5_m4_id2.pkl,5,4
+Manne-based MILP,1475,384,0.024003983,0,1475,1475,time_limit,instance_n5_m4_id2.pkl,5,4
+Position-based MILP,1475,384,0.05101347,0,1475,1475,time_limit,instance_n5_m4_id2.pkl,5,4
+tct_cp,1475,384,0.026000023,0,1475,1475,optimal,instance_n5_m4_id2.pkl,5,4
+tct_core,1475,295,0,0,1475,1475,optimal,instance_n5_m4_id2.pkl,5,4
+Sequence-based MILP,1717,504,0.034029722,0,1717,1717,time_limit,instance_n5_m4_id3.pkl,5,4
+Manne-based MILP,1717,504,0.027363539,0,1717,1717,time_limit,instance_n5_m4_id3.pkl,5,4
+Position-based MILP,1717,504,0.046052933,0,1717,1717,time_limit,instance_n5_m4_id3.pkl,5,4
+tct_cp,1717,504,0.02799964,0,1717,1717,optimal,instance_n5_m4_id3.pkl,5,4
+tct_core,1717,343.4,0,0,1717,1717,optimal,instance_n5_m4_id3.pkl,5,4
+Sequence-based MILP,1697,472,0.020000458,0,1697,1697,time_limit,instance_n5_m4_id4.pkl,5,4
+Manne-based MILP,1697,472,0.019001722,0,1697,1697,time_limit,instance_n5_m4_id4.pkl,5,4
+Position-based MILP,1697,472,0.042000294,0,1697,1697,time_limit,instance_n5_m4_id4.pkl,5,4
+tct_cp,1697,472,0.026008129,0,1697,1697,optimal,instance_n5_m4_id4.pkl,5,4
+tct_core,1697,339.4,0,0,1697,1697,optimal,instance_n5_m4_id4.pkl,5,4
+Sequence-based MILP,1361,457,0.065156937,0,1361,1361,time_limit,instance_n5_m4_id5.pkl,5,4
+Manne-based MILP,1361,457,0.019000769,0,1361,1361,time_limit,instance_n5_m4_id5.pkl,5,4
+Position-based MILP,1361,457,0.04600811,0,1361,1361,time_limit,instance_n5_m4_id5.pkl,5,4
+tct_cp,1361,457,0.02699995,0,1361,1361,optimal,instance_n5_m4_id5.pkl,5,4
+tct_core,1361,272.2,0,0,1361,1361,optimal,instance_n5_m4_id5.pkl,5,4
+Sequence-based MILP,2719,529,2.377012014,2.61E-06,2719,2718.992908,time_limit,instance_n10_m2_id1.pkl,10,2
+Manne-based MILP,2719,529,2.347198248,2.57E-05,2719,2718.930233,time_limit,instance_n10_m2_id1.pkl,10,2
+Position-based MILP,2719,529,60.12184072,0.586980508,2719,1123,time_limit,instance_n10_m2_id1.pkl,10,2
+tct_cp,2719,529,12.35218763,0,2719,2719,optimal,instance_n10_m2_id1.pkl,10,2
+tct_core,2719,271.9,0.000999689,0,2719,2719,optimal,instance_n10_m2_id1.pkl,10,2
+Sequence-based MILP,2974,628,1.840561152,3.06E-05,2974,2973.909091,time_limit,instance_n10_m2_id2.pkl,10,2
+Manne-based MILP,2974,628,1.453114748,7.05E-05,2974,2973.790252,time_limit,instance_n10_m2_id2.pkl,10,2
+Position-based MILP,2974,628,60.14724874,0.547074647,2974,1347,time_limit,instance_n10_m2_id2.pkl,10,2
+tct_cp,2974,628,6.812094927,0,2974,2974,optimal,instance_n10_m2_id2.pkl,10,2
+tct_core,2974,297.4,0,0,2974,2974,optimal,instance_n10_m2_id2.pkl,10,2
+Sequence-based MILP,2891,606,1.672777653,0,2891,2891,time_limit,instance_n10_m2_id3.pkl,10,2
+Manne-based MILP,2891,606,1.486301899,9.54E-05,2891,2890.724138,time_limit,instance_n10_m2_id3.pkl,10,2
+Position-based MILP,2891,606,60.1410253,0.553095815,2891,1292,time_limit,instance_n10_m2_id3.pkl,10,2
+tct_cp,2891,606,4.204617977,0,2891,2891,optimal,instance_n10_m2_id3.pkl,10,2
+tct_core,2891,289.1,0,0,2891,2891,optimal,instance_n10_m2_id3.pkl,10,2
+Sequence-based MILP,3103,595,3.101319313,8.09E-09,3103,3102.999975,time_limit,instance_n10_m2_id4.pkl,10,2
+Manne-based MILP,3103,595,3.955725908,9.21E-05,3103,3102.714286,time_limit,instance_n10_m2_id4.pkl,10,2
+Position-based MILP,3103,595,60.17297316,0.58524009,3103,1287,time_limit,instance_n10_m2_id4.pkl,10,2
+tct_cp,3103,595,12.35655832,0,3103,3103,optimal,instance_n10_m2_id4.pkl,10,2
+tct_core,3103,310.3,0,0,3103,3103,optimal,instance_n10_m2_id4.pkl,10,2
+Sequence-based MILP,2776,559,3.213083744,3.64E-09,2776,2775.99999,time_limit,instance_n10_m2_id5.pkl,10,2
+Manne-based MILP,2776,559,3.30839777,0,2776,2776,time_limit,instance_n10_m2_id5.pkl,10,2
+Position-based MILP,2776,559,60.10656357,0.590057637,2776,1138,time_limit,instance_n10_m2_id5.pkl,10,2
+tct_cp,2776,559,9.568231344,0,2776,2776,optimal,instance_n10_m2_id5.pkl,10,2
+tct_core,2776,277.6,0.00099349,0,2776,2776,optimal,instance_n10_m2_id5.pkl,10,2
+Sequence-based MILP,3732,685,1.817940712,3.52E-05,3732,3731.868687,time_limit,instance_n10_m3_id1.pkl,10,3
+Manne-based MILP,3732,685,2.004766226,0,3732,3732,time_limit,instance_n10_m3_id1.pkl,10,3
+Position-based MILP,3732,685,60.1414094,0.518488746,3732,1797,time_limit,instance_n10_m3_id1.pkl,10,3
+tct_cp,3732,685,14.03445244,0,3732,3732,optimal,instance_n10_m3_id1.pkl,10,3
+tct_core,3732,373.2,0,0,3732,3732,optimal,instance_n10_m3_id1.pkl,10,3
+Sequence-based MILP,3564,652,2.665141344,2.60E-05,3564,3563.907407,time_limit,instance_n10_m3_id2.pkl,10,3
+Manne-based MILP,3564,652,2.60956192,9.58E-05,3564,3563.658537,time_limit,instance_n10_m3_id2.pkl,10,3
+Position-based MILP,3564,652,60.13989115,0.514590348,3564,1730,time_limit,instance_n10_m3_id2.pkl,10,3
+tct_cp,3564,652,14.68868566,0,3564,3564,optimal,instance_n10_m3_id2.pkl,10,3
+tct_core,3564,356.4,0,0,3564,3564,optimal,instance_n10_m3_id2.pkl,10,3
+Sequence-based MILP,2761,556,0.94686532,9.77E-05,2761,2760.730337,time_limit,instance_n10_m3_id3.pkl,10,3
+Manne-based MILP,2761,556,0.920012951,0,2761,2761,time_limit,instance_n10_m3_id3.pkl,10,3
+Position-based MILP,2761,556,60.13637733,0.486780152,2761,1417,time_limit,instance_n10_m3_id3.pkl,10,3
+tct_cp,2761,556,5.629903316,0,2761,2761,optimal,instance_n10_m3_id3.pkl,10,3
+tct_core,2761,276.1,0,0,2761,2761,optimal,instance_n10_m3_id3.pkl,10,3
+Sequence-based MILP,3536,707,1.87788868,0,3536,3536,time_limit,instance_n10_m3_id4.pkl,10,3
+Manne-based MILP,3536,707,1.50417757,0,3536,3536,time_limit,instance_n10_m3_id4.pkl,10,3
+Position-based MILP,3536,707,60.15035486,0.511029412,3536,1729,time_limit,instance_n10_m3_id4.pkl,10,3
+tct_cp,3536,707,14.0958662,0,3536,3536,optimal,instance_n10_m3_id4.pkl,10,3
+tct_core,3536,353.6,0.001000404,0,3536,3536,optimal,instance_n10_m3_id4.pkl,10,3
+Sequence-based MILP,3416,578,2.771172285,4.36E-05,3416,3415.851064,time_limit,instance_n10_m3_id5.pkl,10,3
+Manne-based MILP,3416,578,2.167712212,0,3416,3416,time_limit,instance_n10_m3_id5.pkl,10,3
+Position-based MILP,3419,642,60.12263036,0.512138052,3419,1668,time_limit,instance_n10_m3_id5.pkl,10,3
+tct_cp,3416,578,18.4360652,0,3416,3416,optimal,instance_n10_m3_id5.pkl,10,3
+tct_core,3416,341.6,0.001000643,0,3416,3416,optimal,instance_n10_m3_id5.pkl,10,3
+Sequence-based MILP,4831,841,3.865193129,1.69E-08,4831,4830.999918,time_limit,instance_n10_m4_id1.pkl,10,4
+Manne-based MILP,4831,841,3.910377741,7.11E-05,4831,4830.656712,time_limit,instance_n10_m4_id1.pkl,10,4
+Position-based MILP,4837,925,60.20125484,0.519330163,4837,2325,time_limit,instance_n10_m4_id1.pkl,10,4
+tct_cp,4831,841,29.48564601,0,4831,4831,optimal,instance_n10_m4_id1.pkl,10,4
+tct_core,4831,483.1,0.000998735,0,4831,4831,optimal,instance_n10_m4_id1.pkl,10,4
+Sequence-based MILP,4398,826,1.570075512,0,4398,4398,time_limit,instance_n10_m4_id2.pkl,10,4
+Manne-based MILP,4398,826,1.743308783,3.45E-06,4398,4397.984848,time_limit,instance_n10_m4_id2.pkl,10,4
+Position-based MILP,4398,826,60.18875027,0.457253297,4398,2387,time_limit,instance_n10_m4_id2.pkl,10,4
+tct_cp,4398,826,14.92923641,0,4398,4398,optimal,instance_n10_m4_id2.pkl,10,4
+tct_core,4398,439.8,0.001999855,0,4398,4398,optimal,instance_n10_m4_id2.pkl,10,4
+Sequence-based MILP,4386,794,2.792236805,5.36E-05,4386,4385.764706,time_limit,instance_n10_m4_id3.pkl,10,4
+Manne-based MILP,4386,794,2.626923323,9.89E-05,4386,4385.566265,time_limit,instance_n10_m4_id3.pkl,10,4
+Position-based MILP,4386,794,60.1440134,0.453944368,4386,2395,time_limit,instance_n10_m4_id3.pkl,10,4
+tct_cp,4386,794,12.62659287,0,4386,4386,optimal,instance_n10_m4_id3.pkl,10,4
+tct_core,4386,438.6,0,0,4386,4386,optimal,instance_n10_m4_id3.pkl,10,4
+Sequence-based MILP,4320,815,1.519571304,9.51E-06,4320,4319.958904,time_limit,instance_n10_m4_id4.pkl,10,4
+Manne-based MILP,4320,815,1.652323246,0,4320,4320,time_limit,instance_n10_m4_id4.pkl,10,4
+Position-based MILP,4320,838,60.19224262,0.479358128,4320,2249.172886,time_limit,instance_n10_m4_id4.pkl,10,4
+tct_cp,4320,838,9.660947323,0,4320,4320,optimal,instance_n10_m4_id4.pkl,10,4
+tct_core,4320,432,0.000993252,0,4320,4320,optimal,instance_n10_m4_id4.pkl,10,4
+Sequence-based MILP,2896,515,1.340136766,0,2896,2896,time_limit,instance_n10_m4_id5.pkl,10,4
+Manne-based MILP,2896,515,1.430091858,7.19E-06,2896,2895.979167,time_limit,instance_n10_m4_id5.pkl,10,4
+Position-based MILP,2896,515,60.20626092,0.436118785,2896,1633,time_limit,instance_n10_m4_id5.pkl,10,4
+tct_cp,2896,515,8.514528275,0,2896,2896,optimal,instance_n10_m4_id5.pkl,10,4
+tct_core,2896,289.6,0.000999928,0,2896,2896,optimal,instance_n10_m4_id5.pkl,10,4
+Sequence-based MILP,6206,896,60.04764819,0.37657106,6206,3869,time_limit,instance_n15_m2_id1.pkl,15,2
+Manne-based MILP,6206,896,60.05621624,0.406333184,6206,3684.29626,time_limit,instance_n15_m2_id1.pkl,15,2
+Position-based MILP,6418,896,60.25229239,0.738547834,6418,1678,time_limit,instance_n15_m2_id1.pkl,15,2
+tct_cp,6206,896,60.03072381,0.080568112,6206,5705.994294,time_limit,instance_n15_m2_id1.pkl,15,2
+tct_core,6206,413.7333333,0.003000021,0,6206,6206,optimal,instance_n15_m2_id1.pkl,15,2
+Sequence-based MILP,6564,919,60.07228756,0.434672813,6564,3710.807656,time_limit,instance_n15_m2_id2.pkl,15,2
+Manne-based MILP,6564,919,60.0526526,0.445829747,6564,3637.573541,time_limit,instance_n15_m2_id2.pkl,15,2
+Position-based MILP,6781,919,60.25535774,0.752986285,6781,1675,time_limit,instance_n15_m2_id2.pkl,15,2
+tct_cp,6564,919,60.04068732,0.073584107,6564,6080.993919,time_limit,instance_n15_m2_id2.pkl,15,2
+tct_core,6564,437.6,0.002999306,0,6564,6564,optimal,instance_n15_m2_id2.pkl,15,2
+Sequence-based MILP,5595,832,60.07994175,0.374977665,5595,3496.999964,time_limit,instance_n15_m2_id3.pkl,15,2
+Manne-based MILP,5597,832,60.05859351,0.388842671,5597,3420.64757,time_limit,instance_n15_m2_id3.pkl,15,2
+Position-based MILP,5722,856,60.28578758,0.735931492,5722,1511,time_limit,instance_n15_m2_id3.pkl,15,2
+tct_cp,5595,832,60.04349399,0.059697098,5595,5260.994739,time_limit,instance_n15_m2_id3.pkl,15,2
+tct_core,5595,373,0.003000021,0,5595,5595,optimal,instance_n15_m2_id3.pkl,15,2
+Sequence-based MILP,5674,908,60.05906725,0.358542561,5674,3639.629507,time_limit,instance_n15_m2_id4.pkl,15,2
+Manne-based MILP,5674,908,60.05666971,0.390401877,5674,3458.859748,time_limit,instance_n15_m2_id4.pkl,15,2
+Position-based MILP,5765,908,60.29085732,0.740849957,5765,1494,time_limit,instance_n15_m2_id4.pkl,15,2
+tct_cp,5674,908,60.04631138,0.053049942,5674,5372.994627,time_limit,instance_n15_m2_id4.pkl,15,2
+tct_core,5674,378.2666667,0.00100112,0,5674,5674,optimal,instance_n15_m2_id4.pkl,15,2
+Sequence-based MILP,3900,688,60.08106351,0.224355161,3900,3025.014872,time_limit,instance_n15_m2_id5.pkl,15,2
+Manne-based MILP,3903,688,60.05875158,0.230501698,3903,3003.351875,time_limit,instance_n15_m2_id5.pkl,15,2
+Position-based MILP,3944,688,60.27530074,0.694979716,3944,1203,time_limit,instance_n15_m2_id5.pkl,15,2
+tct_cp,3900,688,60.04551291,0.08794963,3900,3556.996443,time_limit,instance_n15_m2_id5.pkl,15,2
+tct_core,3900,260,0.002007484,0,3900,3900,optimal,instance_n15_m2_id5.pkl,15,2
+Sequence-based MILP,6311,852,60.12924814,0.381703883,6311,3902.066792,time_limit,instance_n15_m3_id1.pkl,15,3
+Manne-based MILP,6256,840,60.06000447,0.391577881,6256,3806.288776,time_limit,instance_n15_m3_id1.pkl,15,3
+Position-based MILP,6386,867,60.36372662,0.676636392,6386,2065,time_limit,instance_n15_m3_id1.pkl,15,3
+tct_cp,6238,837,60.0514524,0.171530165,6238,5167.994832,time_limit,instance_n15_m3_id1.pkl,15,3
+tct_core,6226,415.0666667,0.022999287,0,6226,6226,optimal,instance_n15_m3_id1.pkl,15,3
+Sequence-based MILP,6243,808,60.11156154,0.349131768,6243,4063.37037,time_limit,instance_n15_m3_id2.pkl,15,3
+Manne-based MILP,6191,795,60.09884405,0.362329229,6191,3947.819744,time_limit,instance_n15_m3_id2.pkl,15,3
+Position-based MILP,6453,795,60.26437306,0.693475903,6453,1978,time_limit,instance_n15_m3_id2.pkl,15,3
+tct_cp,6187,788,60.04331517,0.072410819,6187,5738.994261,time_limit,instance_n15_m3_id2.pkl,15,3
+tct_core,6187,412.4666667,0.009999275,0,6187,6187,optimal,instance_n15_m3_id2.pkl,15,3
+Sequence-based MILP,7066,939,60.08462524,0.384026367,7066,4352.469692,time_limit,instance_n15_m3_id3.pkl,15,3
+Manne-based MILP,7118,949,60.11952686,0.387086908,7118,4362.715389,time_limit,instance_n15_m3_id3.pkl,15,3
+Position-based MILP,7187,942,60.30097318,0.675803534,7187,2330,time_limit,instance_n15_m3_id3.pkl,15,3
+tct_cp,7064,939,60.05741215,0.109712102,7064,6288.993711,time_limit,instance_n15_m3_id3.pkl,15,3
+tct_core,7064,470.9333333,0.006000042,0,7064,7064,optimal,instance_n15_m3_id3.pkl,15,3
+Sequence-based MILP,8177,1075,60.07876492,0.383147854,8177,5044,time_limit,instance_n15_m3_id4.pkl,15,3
+Manne-based MILP,8177,1075,60.13804507,0.397050821,8177,4930.315434,time_limit,instance_n15_m3_id4.pkl,15,3
+Position-based MILP,8326,1095,60.38430047,0.672832092,8326,2724,time_limit,instance_n15_m3_id4.pkl,15,3
+tct_cp,8177,1075,60.05628157,0.016755294,8177,8039.99196,time_limit,instance_n15_m3_id4.pkl,15,3
+tct_core,8177,545.1333333,0.000999928,0,8177,8177,optimal,instance_n15_m3_id4.pkl,15,3
+Sequence-based MILP,5570,859,60.09365273,0.307063641,5570,3859.655517,time_limit,instance_n15_m3_id5.pkl,15,3
+Manne-based MILP,5570,859,60.08382797,0.323757759,5570,3766.669284,time_limit,instance_n15_m3_id5.pkl,15,3
+Position-based MILP,5997,861,60.29173183,0.684175421,5997,1894,time_limit,instance_n15_m3_id5.pkl,15,3
+tct_cp,5570,859,60.03837943,0.08815172,5570,5078.994921,time_limit,instance_n15_m3_id5.pkl,15,3
+tct_core,5570,371.3333333,0.005999565,0,5570,5570,optimal,instance_n15_m3_id5.pkl,15,3
+Sequence-based MILP,8089,1070,60.11958671,0.353112996,8089,5232.668972,time_limit,instance_n15_m4_id1.pkl,15,4
+Manne-based MILP,8158,1070,60.07186127,0.367567871,8158,5159.381304,time_limit,instance_n15_m4_id1.pkl,15,4
+Position-based MILP,8501,1137,60.31206512,0.644630044,8501,3021,time_limit,instance_n15_m4_id1.pkl,15,4
+tct_cp,8101,1070,60.05329037,0.125294048,8101,7085.992914,time_limit,instance_n15_m4_id1.pkl,15,4
+tct_core,8082,538.8,0.065992355,0,8082,8082,optimal,instance_n15_m4_id1.pkl,15,4
+Sequence-based MILP,7332,954,60.12060118,0.342250969,7332,4822.615898,time_limit,instance_n15_m4_id2.pkl,15,4
+Manne-based MILP,7296,924,60.06122804,0.348193675,7296,4755.578947,time_limit,instance_n15_m4_id2.pkl,15,4
+Position-based MILP,7634,954,60.32577777,0.640686403,7634,2743,time_limit,instance_n15_m4_id2.pkl,15,4
+tct_cp,7300,908,60.05114794,0.185069308,7300,5948.994051,time_limit,instance_n15_m4_id2.pkl,15,4
+tct_core,7263,484.2,0.054994106,0,7263,7263,optimal,instance_n15_m4_id2.pkl,15,4
+Sequence-based MILP,6335,834,60.10542345,0.287953875,6335,4510.8122,time_limit,instance_n15_m4_id3.pkl,15,4
+Manne-based MILP,6341,786,60.06736279,0.294430648,6341,4474.015263,time_limit,instance_n15_m4_id3.pkl,15,4
+Position-based MILP,6903,841,60.33759499,0.629291612,6903,2559,time_limit,instance_n15_m4_id3.pkl,15,4
+tct_cp,6314,834,60.04736781,0.142699622,6314,5412.994587,time_limit,instance_n15_m4_id3.pkl,15,4
+tct_core,6314,420.9333333,0.037000656,0,6314,6314,optimal,instance_n15_m4_id3.pkl,15,4
+Sequence-based MILP,8014,932,60.10433364,0.311300018,8014,5519.241655,time_limit,instance_n15_m4_id4.pkl,15,4
+Manne-based MILP,8095,992,60.06617665,0.339553259,8095,5346.31637,time_limit,instance_n15_m4_id4.pkl,15,4
+Position-based MILP,8483,1033,60.34158325,0.627372392,8483,3161,time_limit,instance_n15_m4_id4.pkl,15,4
+tct_cp,7995,957,60.05272579,0.179237844,7995,6561.993438,time_limit,instance_n15_m4_id4.pkl,15,4
+tct_core,7995,533,0.037000895,0,7995,7995,optimal,instance_n15_m4_id4.pkl,15,4
+Sequence-based MILP,8448,1078,60.15096331,0.342163082,8448,5557.406282,time_limit,instance_n15_m4_id5.pkl,15,4
+Manne-based MILP,8514,1078,60.08297086,0.371184681,8514,5353.733629,time_limit,instance_n15_m4_id5.pkl,15,4
+Position-based MILP,8976,1078,60.33445692,0.645833333,8976,3179,time_limit,instance_n15_m4_id5.pkl,15,4
+tct_cp,8448,1078,60.04708862,0.092685566,8448,7664.992335,time_limit,instance_n15_m4_id5.pkl,15,4
+tct_core,8448,563.2,0.080000162,0,8448,8448,optimal,instance_n15_m4_id5.pkl,15,4
+Sequence-based MILP,9039,1105,60.0950861,0.629819466,9039,3346.061847,time_limit,instance_n20_m2_id1.pkl,20,2
+Manne-based MILP,9027,1107,60.06807494,0.626138736,9027,3374.845634,time_limit,instance_n20_m2_id1.pkl,20,2
+Position-based MILP,9676,1108,60.106287,0.807151716,9676,1866,time_limit,instance_n20_m2_id1.pkl,20,2
+tct_cp,8975,1106,60.05455899,0.055822671,8975,8473.991526,time_limit,instance_n20_m2_id1.pkl,20,2
+tct_core,8975,448.75,0.007005215,0,8975,8975,optimal,instance_n20_m2_id1.pkl,20,2
+Sequence-based MILP,9247,1148,60.1026547,0.616798062,9247,3543.468325,time_limit,instance_n20_m2_id2.pkl,20,2
+Manne-based MILP,9181,1148,60.05727673,0.615767341,9181,3527.640046,time_limit,instance_n20_m2_id2.pkl,20,2
+Position-based MILP,9854,1085,60.12110567,0.806068602,9854,1911,time_limit,instance_n20_m2_id2.pkl,20,2
+tct_cp,9193,1148,60.03323126,0.038726078,9193,8836.991163,time_limit,instance_n20_m2_id2.pkl,20,2
+tct_core,9181,459.05,0.006989002,0,9181,9181,optimal,instance_n20_m2_id2.pkl,20,2
+Sequence-based MILP,10139,1202,60.11407471,0.609631925,10139,3957.941913,time_limit,instance_n20_m2_id3.pkl,20,2
+Manne-based MILP,10169,1204,60.07917643,0.6005406,10169,4062.102639,time_limit,instance_n20_m2_id3.pkl,20,2
+Position-based MILP,10764,1205,60.39438415,0.795243404,10764,2204,time_limit,instance_n20_m2_id3.pkl,20,2
+tct_cp,10139,1202,60.05840397,0.095966976,10139,9165.990834,time_limit,instance_n20_m2_id3.pkl,20,2
+tct_core,10139,506.95,0.021001816,0,10139,10139,optimal,instance_n20_m2_id3.pkl,20,2
+Sequence-based MILP,9271,1057,60.07065225,0.575881782,9271,3932,time_limit,instance_n20_m2_id4.pkl,20,2
+Manne-based MILP,9281,1057,60.0706656,0.576338757,9281,3932,time_limit,instance_n20_m2_id4.pkl,20,2
+Position-based MILP,9817,1025,60.08111095,0.816848324,9817,1798,time_limit,instance_n20_m2_id4.pkl,20,2
+tct_cp,9271,1057,60.04596281,0.025133107,9271,9037.990962,time_limit,instance_n20_m2_id4.pkl,20,2
+tct_core,9271,463.55,0.015999079,0,9271,9271,optimal,instance_n20_m2_id4.pkl,20,2
+Sequence-based MILP,9203,1086,60.1331706,0.609385828,9203,3594.822223,time_limit,instance_n20_m2_id5.pkl,20,2
+Manne-based MILP,9155,1077,60.08415532,0.607494166,9155,3593.390909,time_limit,instance_n20_m2_id5.pkl,20,2
+Position-based MILP,10234,1098,61.64162254,0.802423295,10234,2022,time_limit,instance_n20_m2_id5.pkl,20,2
+tct_cp,9084,1057,60.0538435,0.089719096,9084,8268.991731,time_limit,instance_n20_m2_id5.pkl,20,2
+tct_core,9084,454.2,0.05983305,0,9084,9084,optimal,instance_n20_m2_id5.pkl,20,2
+Sequence-based MILP,11110,1262,60.07486463,0.600375193,11110,4439.831604,time_limit,instance_n20_m3_id1.pkl,20,3
+Manne-based MILP,11043,1262,60.09520793,0.59603726,11043,4460.960541,time_limit,instance_n20_m3_id1.pkl,20,3
+Position-based MILP,11550,1283,60.68417883,0.755411255,11550,2825,time_limit,instance_n20_m3_id1.pkl,20,3
+tct_cp,11020,1262,60.04333282,0.053267734,11020,10432.98957,time_limit,instance_n20_m3_id1.pkl,20,3
+tct_core,10978,548.9,0.009005547,0,10978,10978,optimal,instance_n20_m3_id1.pkl,20,3
+Sequence-based MILP,11532,1209,60.07860303,0.590913095,11532,4717.590183,time_limit,instance_n20_m3_id2.pkl,20,3
+Manne-based MILP,11514,1250,60.06976533,0.577604036,11514,4863.467126,time_limit,instance_n20_m3_id2.pkl,20,3
+Position-based MILP,12992,1250,60.60825944,0.774861453,12992,2925,time_limit,instance_n20_m3_id2.pkl,20,3
+tct_cp,11500,1209,60.04913211,0.075913968,11500,10626.98937,time_limit,instance_n20_m3_id2.pkl,20,3
+tct_core,11472,573.6,0.747000694,0,11472,11472,optimal,instance_n20_m3_id2.pkl,20,3
+Sequence-based MILP,9343,972,60.09926844,0.558058488,9343,4129.059549,time_limit,instance_n20_m3_id3.pkl,20,3
+Manne-based MILP,9280,971,60.08563304,0.550025448,9280,4175.763841,time_limit,instance_n20_m3_id3.pkl,20,3
+Position-based MILP,10470,996,60.56329679,0.752913085,10470,2587,time_limit,instance_n20_m3_id3.pkl,20,3
+tct_cp,9198,971,60.04633093,0.149598589,9198,7821.992178,time_limit,instance_n20_m3_id3.pkl,20,3
+tct_core,9198,459.9,0.340372324,0,9198,9198,optimal,instance_n20_m3_id3.pkl,20,3
+Sequence-based MILP,12131,1388,60.09839511,0.574739474,12131,5158.835445,time_limit,instance_n20_m3_id4.pkl,20,3
+Manne-based MILP,12002,1300,60.0626781,0.570197794,12002,5158.486073,time_limit,instance_n20_m3_id4.pkl,20,3
+Position-based MILP,13095,1388,60.51640105,0.758075601,13095,3168,time_limit,instance_n20_m3_id4.pkl,20,3
+tct_cp,11930,1388,60.04782653,0.065466148,11930,11148.98885,time_limit,instance_n20_m3_id4.pkl,20,3
+tct_core,11930,596.5,0.082992554,0,11930,11930,optimal,instance_n20_m3_id4.pkl,20,3
+Sequence-based MILP,10686,1108,60.11967158,0.538792569,10686,4928.46261,time_limit,instance_n20_m3_id5.pkl,20,3
+Manne-based MILP,10696,1108,60.06216097,0.565875057,10696,4643.400389,time_limit,instance_n20_m3_id5.pkl,20,3
+Position-based MILP,11864,1227,60.60224795,0.756321645,11864,2891,time_limit,instance_n20_m3_id5.pkl,20,3
+tct_cp,10659,1125,60.05096316,0.142228084,10659,9142.990857,time_limit,instance_n20_m3_id5.pkl,20,3
+tct_core,10659,532.95,0.559176445,0,10659,10659,optimal,instance_n20_m3_id5.pkl,20,3
+Sequence-based MILP,12009,1165,60.11079645,0.517621827,12009,5792.879476,time_limit,instance_n20_m4_id1.pkl,20,4
+Manne-based MILP,12057,1146,60.07692051,0.534307166,12057,5614.858502,time_limit,instance_n20_m4_id1.pkl,20,4
+Position-based MILP,13391,1294,60.74723506,0.712120081,13391,3855,time_limit,instance_n20_m4_id1.pkl,20,4
+tct_cp,11849,1137,60.03765345,0.164740476,11849,9896.990103,time_limit,instance_n20_m4_id1.pkl,20,4
+tct_core,11810,590.5,8.15742135,0,11810,11810,optimal,instance_n20_m4_id1.pkl,20,4
+Sequence-based MILP,12768,1269,60.10243821,0.531622157,12768,5980.248304,time_limit,instance_n20_m4_id2.pkl,20,4
+Manne-based MILP,12748,1255,60.10156798,0.527998887,12748,6017.070188,time_limit,instance_n20_m4_id2.pkl,20,4
+Position-based MILP,14506,1374,60.79182792,0.719909003,14506,4063,time_limit,instance_n20_m4_id2.pkl,20,4
+tct_cp,12731,1271,60.0508194,0.164638334,12731,10634.98937,time_limit,instance_n20_m4_id2.pkl,20,4
+tct_core,12607,630.35,2.977049351,0,12607,12607,optimal,instance_n20_m4_id2.pkl,20,4
+Sequence-based MILP,12804,1325,60.09892559,0.528338468,12804,6039.154252,time_limit,instance_n20_m4_id3.pkl,20,4
+Manne-based MILP,12829,1371,60.07087588,0.540318613,12829,5897.252514,time_limit,instance_n20_m4_id3.pkl,20,4
+Position-based MILP,15121,1440,60.83102083,0.737583493,15121,3968,time_limit,instance_n20_m4_id3.pkl,20,4
+tct_cp,12720,1381,60.05570745,0.106368818,12720,11366.98863,time_limit,instance_n20_m4_id3.pkl,20,4
+tct_core,12697,634.85,0.148993969,0,12697,12697,optimal,instance_n20_m4_id3.pkl,20,4
+Sequence-based MILP,14091,1409,60.09881544,0.527854659,14091,6653,time_limit,instance_n20_m4_id4.pkl,20,4
+Manne-based MILP,14181,1394,60.1141212,0.530851139,14181,6653,time_limit,instance_n20_m4_id4.pkl,20,4
+Position-based MILP,15769,1399,60.74668694,0.727820407,15769,4292,time_limit,instance_n20_m4_id4.pkl,20,4
+tct_cp,13964,1389,60.0473907,0.085076824,13964,12775.98722,time_limit,instance_n20_m4_id4.pkl,20,4
+tct_core,13913,695.65,0.11899972,0,13913,13913,optimal,instance_n20_m4_id4.pkl,20,4
+Sequence-based MILP,12685,1373,60.08964849,0.535285926,12685,5894.898033,time_limit,instance_n20_m4_id5.pkl,20,4
+Manne-based MILP,12730,1373,60.0951395,0.533446838,12730,5939.221752,time_limit,instance_n20_m4_id5.pkl,20,4
+Position-based MILP,15564,1363,60.87711024,0.748136726,15564,3920,time_limit,instance_n20_m4_id5.pkl,20,4
+tct_cp,12529,1188,60.04787946,0.100567585,12529,11268.98873,time_limit,instance_n20_m4_id5.pkl,20,4
+tct_core,12491,624.55,1.053542137,0,12491,12491,optimal,instance_n20_m4_id5.pkl,20,4

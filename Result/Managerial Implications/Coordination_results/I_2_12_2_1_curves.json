@@ -1,0 +1,150 @@
+{
+  "instance_name": "I_2_12_2_1",
+  "makespan_B": 357.0,
+  "tct_B": 2398.0,
+  "makespan_A": 354.0,
+  "tct_A": 2539.0,
+  "global_LB": 354.0,
+  "LB": {
+    "0": 354.0,
+    "1": 354.0
+  },
+  "curve1": [
+    {
+      "makespan": 357.0,
+      "tct": 2398.0
+    },
+    {
+      "makespan": 356.7,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.4,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.1,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.8,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.5,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.2,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.9,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.6,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.3,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.0,
+      "tct": 2426.0
+    }
+  ],
+  "curve2a": [
+    {
+      "makespan": 357.0,
+      "tct": 2398.0
+    },
+    {
+      "makespan": 356.7,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.4,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.1,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.8,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.5,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.2,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.9,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.6,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.3,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.0,
+      "tct": 2426.0
+    }
+  ],
+  "curve2b": [
+    {
+      "makespan": 357.0,
+      "tct": 2398.0
+    },
+    {
+      "makespan": 356.7,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.4,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 356.1,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.8,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.5,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 355.2,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.9,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.6,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.3,
+      "tct": 2426.0
+    },
+    {
+      "makespan": 354.0,
+      "tct": 2426.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Instance: TEST_7_2_2
+Jobs: 7
+Factories: 2
+Machines: 2
+Processing time range: [1, 99] (standard)
+
+Processing Times:
+
+Job 1:
+  Factory 1: [7, 75]
+  Factory 2: [7, 75]
+
+Job 2:
+  Factory 1: [82, 73]
+  Factory 2: [82, 73]
+
+Job 3:
+  Factory 1: [21, 24]
+  Factory 2: [21, 24]
+
+Job 4:
+  Factory 1: [18, 18]
+  Factory 2: [18, 18]
+
+Job 5:
+  Factory 1: [81, 92]
+  Factory 2: [81, 92]
+
+Job 6:
+  Factory 1: [63, 9]
+  Factory 2: [63, 9]
+
+Job 7:
+  Factory 1: [64, 5]
+  Factory 2: [64, 5]

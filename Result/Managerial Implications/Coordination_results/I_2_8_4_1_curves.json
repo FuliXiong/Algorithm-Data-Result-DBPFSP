@@ -1,0 +1,134 @@
+{
+  "instance_name": "I_2_8_4_1",
+  "makespan_B": 397.0,
+  "tct_B": 2204.0,
+  "makespan_A": 364.0,
+  "tct_A": 2287.0,
+  "global_LB": 397.0,
+  "LB": {
+    "0": 364.0,
+    "1": 397.0
+  },
+  "curve1": [
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    }
+  ],
+  "curve2a": [
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 393.7,
+      "tct": 2273.0
+    },
+    {
+      "makespan": 390.4,
+      "tct": 2273.0
+    },
+    {
+      "makespan": 387.1,
+      "tct": 2273.0
+    },
+    {
+      "makespan": 383.8,
+      "tct": 2273.0
+    },
+    {
+      "makespan": 380.5,
+      "tct": 2376.0
+    },
+    {
+      "makespan": 377.2,
+      "tct": 2376.0
+    }
+  ],
+  "curve2b": [
+    {
+      "makespan": 397.0,
+      "tct": 2204.0
+    },
+    {
+      "makespan": 393.7,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 390.4,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 387.1,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 383.8,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 380.5,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 377.2,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 373.9,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 370.6,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 367.3,
+      "tct": 2287.0
+    },
+    {
+      "makespan": 364.0,
+      "tct": 2287.0
+    }
+  ]
+}

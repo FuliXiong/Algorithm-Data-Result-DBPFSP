@@ -1,0 +1,21 @@
+Instance: GEN_5_2_2_s116403
+Jobs: 5
+Factories: 2
+Machines: 2
+Processing time range: [1, 99]
+
+Job 1:
+  Factory 1: [67, 95]
+  Factory 2: [67, 95]
+Job 2:
+  Factory 1: [10, 56]
+  Factory 2: [10, 56]
+Job 3:
+  Factory 1: [67, 4]
+  Factory 2: [67, 4]
+Job 4:
+  Factory 1: [74, 2]
+  Factory 2: [74, 2]
+Job 5:
+  Factory 1: [15, 58]
+  Factory 2: [15, 58]

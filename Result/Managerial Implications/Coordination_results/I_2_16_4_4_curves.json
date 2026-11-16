@@ -1,0 +1,130 @@
+{
+  "instance_name": "I_2_16_4_4",
+  "makespan_B": 600.0,
+  "tct_B": 6301.0,
+  "makespan_A": 569.0,
+  "tct_A": 6463.0,
+  "global_LB": 582.0,
+  "LB": {
+    "0": 576.0,
+    "1": 582.0
+  },
+  "curve1": [
+    {
+      "makespan": 600.0,
+      "tct": 6301.0
+    },
+    {
+      "makespan": 598.2,
+      "tct": 6323.0
+    },
+    {
+      "makespan": 596.4,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 594.6,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 592.8,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 591.0,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 589.2,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 587.4,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 585.6,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 583.8,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 582.0,
+      "tct": 6392.0
+    }
+  ],
+  "curve2a": [
+    {
+      "makespan": 600.0,
+      "tct": 6301.0
+    },
+    {
+      "makespan": 596.9,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 593.8,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 590.7,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 587.6,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 584.5,
+      "tct": 6384.0
+    }
+  ],
+  "curve2b": [
+    {
+      "makespan": 600.0,
+      "tct": 6301.0
+    },
+    {
+      "makespan": 596.9,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 593.8,
+      "tct": 6356.0
+    },
+    {
+      "makespan": 590.7,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 587.6,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 584.5,
+      "tct": 6384.0
+    },
+    {
+      "makespan": 581.4,
+      "tct": 6463.0
+    },
+    {
+      "makespan": 578.3,
+      "tct": 6463.0
+    },
+    {
+      "makespan": 575.2,
+      "tct": 6463.0
+    },
+    {
+      "makespan": 572.1,
+      "tct": 6463.0
+    },
+    {
+      "makespan": 569.0,
+      "tct": 6463.0
+    }
+  ]
+}
